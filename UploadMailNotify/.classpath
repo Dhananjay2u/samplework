@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/compilejars/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/jxl-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/jxls-reader-0.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/eopscommon.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/eopscommon-web.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/log4CBE.jar"/>
+	<classpathentry kind="lib" path="C:/compilejars/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

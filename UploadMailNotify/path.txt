@@ -1,0 +1,6 @@
+check_logpath=C:/tmp/in_local/My Documents/controld/check/log/
+check_reportpath=C:/tmp/in_local/My Documents/controld/check/report/
+check_upload=C:/tmp/in_local/My Documents/controld/check/upload
+check_output=C:/tmp/in_local/My Documents/controld/check/output
+app_error=C:/tmp/in_local/My Documents/controld/check/applicationLog/errorlog.txt
+app_upload=C:/tmp/in_local/My Documents/controld/check/applicationLog/uploadlog.txt
